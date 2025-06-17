@@ -1,6 +1,26 @@
-# Bem-vindo ao meu site!
+# Meu Projeto Incrível
 
-Este é um site feito com **Markdown** e hospedado no **GitHub Pages**.
+[Início](#meu-projeto-incrível) • [Sobre](#sobre) • [Funcionalidades](#funcionalidades) • [Contato](#contato)
 
-## Sobre mim
-Eu sou o Gabriel e estou aprendendo GitHub Pages!
+---
+
+## ✨ Sobre
+
+Esse projeto tem como objetivo...
+
+---
+
+## ⚙️ Funcionalidades
+
+- Fácil de usar
+- Baseado em Markdown
+- Hospedado no GitHub Pages
+
+---
+
+## 📞 Contato
+
+Você pode me encontrar em:
+
+- [GitHub](https://github.com/seu-usuario)
+- Email: exemplo@email.com
