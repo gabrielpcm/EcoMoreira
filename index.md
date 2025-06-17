@@ -70,7 +70,7 @@ Atuamos com foco em serviços de alta demanda no mercado ambiental:
 📧 contato@ecomoreira.com.br  
 📱 (00) 90000-0000  
 📍 Rio de Janeiro - RJ  
-🌐 [LinkedIn](https://www.linkedin.com/in/gabriel-pcm/)  
+🌐 [LinkedIn][(https://www.linkedin.com/in/gabriel-pcm/)] 
 
 Entre em contato para um diagnóstico gratuito do seu empreendimento!
 
